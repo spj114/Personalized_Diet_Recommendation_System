@@ -18,15 +18,16 @@
 - **🥗 Dietary Preference Support**: Accommodates vegetarian, vegan, low-carb, and other diet preferences
 - **⚙️ Personalized Goals**: Options for weight loss, muscle gain, or general health
 
-<div align="left">
-  <img src="Images/daily_nutrition_requirements.jpeg" alt="daily_nutrition_requirements" width="350" />
-</div>
-<div align="right">
-  <img src="Images/diet_recommendations.jpeg" alt="diet_recommendations" width="350" />
-</div>
 <div align="center">
-  <img src="Images/nutrition_breakdown_visualization.jpeg" alt="nutrition_breakdown_visualization" width="700" />
+  <img src="Images/daily_nutrition_requirements.jpeg" alt="daily_nutrition_requirements" width="300" />
+  <img src="Images/recommended_meal_plan.jpeg" alt="Diet Mentor AI Meal Plan" width="300" />
+  <img src="Images/diet_recommendations.jpeg" alt="diet_recommendations" width="300" />
 </div>
+
+<div align="center">
+  <img src="Images/nutrition_breakdown_visualization.jpeg" alt="nutrition_breakdown_visualization" width="900" />
+</div>
+
 
 
 ## 🚀 Quick Start

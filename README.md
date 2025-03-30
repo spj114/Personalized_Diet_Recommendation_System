@@ -165,5 +165,5 @@ The MIT License is a permissive license that is short and to the point. It lets 
 ---
 
 <div align="center">
-  <p>Built with ❤️ by Your Name</p>
+  <p>Built by Shreyas</p>
 </div>

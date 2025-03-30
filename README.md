@@ -19,16 +19,7 @@
 - **⚙️ Personalized Goals**: Options for weight loss, muscle gain, or general health
 
 <div align="center">
-  <img src="Images/daily_nutrition_requirements.jpeg" alt="Diet Recommender Main Interface" width="700" />
-</div>
-<div align="center">
-  <img src="Images/goals_and_preferences.jpeg" alt="goals_and_preferences" width="700" />
-</div>
-<div align="center">
   <img src="Images/daily_nutrition_requirements.jpeg" alt="daily_nutrition_requirements" width="700" />
-</div>
-<div align="center">
-  <img src="Images/recommended_meal_plan.jpeg" alt="recommended_meal_plan" width="700" />
 </div>
 <div align="center">
   <img src="Images/diet_recommendations.jpeg" alt="diet_recommendations" width="700" />
@@ -36,9 +27,7 @@
 <div align="center">
   <img src="Images/nutrition_breakdown_visualization.jpeg" alt="nutrition_breakdown_visualization" width="700" />
 </div>
-<div align="center">
-  <img src="Images/nutrition_breakdown_visualization2.jpeg" alt="nutrition_breakdown_visualization_2" width="700" />
-</div>
+
 
 ## 🚀 Quick Start
 
@@ -72,7 +61,7 @@ For a detailed usage guide, see [usage.md](docs/usage.md)
 Input your age, height, weight, gender, and activity level.
 
 <div align="center">
-  <img src="Images/daily_nutrition_requirements.jpeg" alt="Diet Mentor AI User Information Form" width="700" />
+  <img src="Images/user_information.jpeg" alt="goals_and_preferences" width="700" />
 </div>
 
 ### 2. Set Your Goals and Preferences
@@ -92,11 +81,19 @@ Get a detailed meal plan and nutritional analysis.
   <img src="Images/recommended_meal_plan.jpeg" alt="Diet Mentor AI Meal Plan" width="700" />
 </div>
 
+<div align="center">
+  <img src="Images/diet_recommendations.jpeg" alt="diet_recommendations" width="700" />
+</div>
+
 ### 4. Analyze Visualizations
 View charts showing your nutritional breakdown and meal distribution.
 
 <div align="center">
   <img src="Images/nutrition_breakdown_visualization.jpeg" alt="Diet Mentor AI Nutrition Charts" width="700" />
+</div>
+
+<div align="center">
+  <img src="Images/nutrition_breakdown_visualization2.jpeg" alt="nutrition_breakdown_visualization_2" width="700" />
 </div>
 
 ## 🧩 How It Works

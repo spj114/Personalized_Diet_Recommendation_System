@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Diet Mentor AI</h1>
+  <h1>Personalized_Diet_Recommendation_System</h1>
   <p><em>Personalized nutrition planning powered by smart algorithms.</em></p>
   
   [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="Images/nutrition_breakdown_visualization.jpeg" alt="nutrition_breakdown_visualization" width="900" />
+  <img src="Images/nutrition_breakdown_visualization.jpeg" alt="nutrition_breakdown_visualization" width="950" />
 </div>
 
 

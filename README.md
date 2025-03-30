@@ -19,25 +19,25 @@
 - **⚙️ Personalized Goals**: Options for weight loss, muscle gain, or general health
 
 <div align="center">
-  <img src="images/user_infromation.png" alt="Diet Recommender Main Interface" width="700" />
+  <img src="Images/user_infromation.png" alt="Diet Recommender Main Interface" width="700" />
 </div>
 <div align="center">
-  <img src="images/goals_and_preferences.png" alt="goals_and_preferences" width="700" />
+  <img src="Images/goals_and_preferences.png" alt="goals_and_preferences" width="700" />
 </div>
 <div align="center">
-  <img src="daily_nutrition_requirements.png" alt="daily_nutrition_requirements" width="700" />
+  <img src="Images/daily_nutrition_requirements.png" alt="daily_nutrition_requirements" width="700" />
 </div>
 <div align="center">
-  <img src="recommended_meal_plan.png" alt="recommended_meal_plan" width="700" />
+  <img src="Images/recommended_meal_plan.png" alt="recommended_meal_plan" width="700" />
 </div>
 <div align="center">
-  <img src="diet_recommendations.png" alt="diet_recommendations" width="700" />
+  <img src="Images/diet_recommendations.png" alt="diet_recommendations" width="700" />
 </div>
 <div align="center">
-  <img src="nutrition_breakdown_visualization.png" alt="nutrition_breakdown_visualization" width="700" />
+  <img src="Images/nutrition_breakdown_visualization.png" alt="nutrition_breakdown_visualization" width="700" />
 </div>
 <div align="center">
-  <img src="nutrition_breakdown_visualization2.png" alt="nutrition_breakdown_visualization_2" width="700" />
+  <img src="Images/nutrition_breakdown_visualization2.png" alt="nutrition_breakdown_visualization_2" width="700" />
 </div>
 
 ## 🚀 Quick Start

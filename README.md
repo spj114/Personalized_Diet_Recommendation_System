@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="Images/nutrition_breakdown_visualization.jpeg" alt="nutrition_breakdown_visualization" width="950" />
+  <img src="Images/nutrition_breakdown_visualization.jpeg" alt="nutrition_breakdown_visualization" width="920" />
 </div>
 
 

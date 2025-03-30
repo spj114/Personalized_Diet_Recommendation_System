@@ -18,11 +18,11 @@
 - **🥗 Dietary Preference Support**: Accommodates vegetarian, vegan, low-carb, and other diet preferences
 - **⚙️ Personalized Goals**: Options for weight loss, muscle gain, or general health
 
-<div align="center">
-  <img src="Images/daily_nutrition_requirements.jpeg" alt="daily_nutrition_requirements" width="700" />
+<div align="left">
+  <img src="Images/daily_nutrition_requirements.jpeg" alt="daily_nutrition_requirements" width="350" />
 </div>
-<div align="center">
-  <img src="Images/diet_recommendations.jpeg" alt="diet_recommendations" width="700" />
+<div align="right">
+  <img src="Images/diet_recommendations.jpeg" alt="diet_recommendations" width="350" />
 </div>
 <div align="center">
   <img src="Images/nutrition_breakdown_visualization.jpeg" alt="nutrition_breakdown_visualization" width="700" />

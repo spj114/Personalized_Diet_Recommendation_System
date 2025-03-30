@@ -19,13 +19,13 @@
 - **⚙️ Personalized Goals**: Options for weight loss, muscle gain, or general health
 
 <div align="center">
-  <img src="Images/daily_nutrition_requirements.jpeg" alt="daily_nutrition_requirements" width="300" />
-  <img src="Images/recommended_meal_plan.jpeg" alt="Diet Mentor AI Meal Plan" width="300" />
-  <img src="Images/diet_recommendations.jpeg" alt="diet_recommendations" width="300" />
+  <img src="Images/daily_nutrition_requirements.jpeg" alt="daily_nutrition_requirements" width="250" />
+  <img src="Images/recommended_meal_plan.jpeg" alt="Diet Mentor AI Meal Plan" width="250" />
+  <img src="Images/diet_recommendations.jpeg" alt="diet_recommendations" width="250" />
 </div>
 
 <div align="center">
-  <img src="Images/nutrition_breakdown_visualization.jpeg" alt="nutrition_breakdown_visualization" width="900" />
+  <img src="Images/nutrition_breakdown_visualization.jpeg" alt="nutrition_breakdown_visualization" width="759" />
 </div>
 
 
